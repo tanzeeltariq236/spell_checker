@@ -1,0 +1,10 @@
+youth|young
+zero|number
+zimbabwe|country
+zinc|metal
+rose|flower
+corona|virus
+laptop|device
+apple|fruit
+gree|air conditioner
+pen|used for writing
